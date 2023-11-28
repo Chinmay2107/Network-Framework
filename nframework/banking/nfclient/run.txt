@@ -1,0 +1,4 @@
+java -classpath ..\common\build\libs\nframework-common.jar;..\client\build\libs\nframework-client.jar;build\libs\nfclient.jar;c:\gson\*;. com.thinking.machines.nf.client.main.Main
+
+Use JDK 11.0.16 & Gson version 2.8.6
+Not working with JDK 18

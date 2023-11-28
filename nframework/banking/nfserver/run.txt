@@ -1,0 +1,7 @@
+java -classpath ..\common\build\libs\nframework-common.jar;..\server\build\libs\nframework-server.jar;build\libs\nfserver.jar;c:\gson\*;. com.thinking.machines.nf.server.main.Main
+
+The class with annotations should be declared public then only the 
+server will be able to retrieve information of the class
+
+Use JDK 11.0.16 & Gson version 2.8.6
+Not working with JDK 18
