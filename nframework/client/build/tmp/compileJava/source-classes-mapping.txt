@@ -1,0 +1,4 @@
+com/thinking/machines/nframework/client/Configuration.java
+ com.thinking.machines.nframework.client.Configuration
+com/thinking/machines/nframework/client/NFrameworkClient.java
+ com.thinking.machines.nframework.client.NFrameworkClient
